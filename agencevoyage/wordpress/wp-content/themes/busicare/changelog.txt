@@ -1,0 +1,26 @@
+== Changelog ==
+
+@Version 1.1.4
+* Updated description in style.css and style-rtl.css
+
+@Version 1.1.3
+* Fixed minor code issue.
+* Corrected the demo URL.
+
+@Version 1.1.2
+* Updated theme the option's page.
+
+@Version 1.1.1
+* Fixed minor style issues.
+
+@Version 1.1
+* Removed code for the child theme.
+
+@Version 0.9
+* Fixed strings as per i18n.
+
+@Version 0.2
+* Fixed reviewer issues.
+
+@Version 0.1
+* Initial Release
